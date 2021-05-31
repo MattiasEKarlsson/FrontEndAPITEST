@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndAPITEST", "FrontEndAPITEST\FrontEndAPITEST.csproj", "{FAB845EF-609A-4DAA-B4AE-D016EBC55120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB845EF-609A-4DAA-B4AE-D016EBC55120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB845EF-609A-4DAA-B4AE-D016EBC55120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB845EF-609A-4DAA-B4AE-D016EBC55120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB845EF-609A-4DAA-B4AE-D016EBC55120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703812D5-FFD3-4404-BEA4-0CC7F6445BF1}
+	EndGlobalSection
+EndGlobal
